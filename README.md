@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Rust, R
 
 ## Education
-- B.S., Data Science, Business Minor | Boston University (_June 2026_)
+- B.S., Data Science, Business Minor @ Boston University (_June 2026_)
 
 ## Work Experience
 **Software Engineer Intern @ Cushman & Wakefield (_September 2025 - January 2026_)**
