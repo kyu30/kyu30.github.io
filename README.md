@@ -7,7 +7,7 @@
 
 ## Work Experience
 **Software Intern @ Cushman & Wakefield (_September 2025 - January 2026_)**
-- Designed and deployed a PDF-to-CSV parsing app using Flask, Python, and the PDFplumber and regex libraries, cutting portfolio preparation time by 50\% and enabling faster delivery of client presentations.
+- Designed and deployed a PDF-to-CSV parsing app using Flask, Python, and the PDFplumber and regex libraries, cutting portfolio preparation time by 50% and enabling faster delivery of client presentations.
 - Developed a Python script leveraging regex to transform a dataset of 2,000+ company contacts into a standardized reporting template, eliminating hours of manual formatting.
 - Automated data collection using the SEC's EDGAR API to create PowerBI graphics for clients involving competitive analysis and portfolio overviews
 
