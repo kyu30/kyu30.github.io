@@ -3,7 +3,8 @@
 #### Technical Skills: Python, SQL, Rust, R
 
 ## Education
-- B.S., Data Science, Business Minor @ Boston University (_June 2026_)
+- B.S., Data Science, Business Minor @ Boston University (_September 2023 - June 2026_)
+- M.S., Data Science & Analytics @ Georgetown University (_August 2026 - December 2027_)
 
 ## Work Experience
 **Software Intern @ Cushman & Wakefield (_September 2025 - January 2026_)**
@@ -22,6 +23,12 @@
 - Developing risk management algorithm to track and identify potential causes of financial losses
 
 ## Projects
+### Fossil Fuel Native Ads
+[Git Repo](https://github.com/kyu30/claims2)
+- Built a UI for claims-based analysis of sponsored climate and energy articles, mapping each sentence/paragraph to subclaim–superclaim pairs with confidence scores.
+- Applied BERTopic to cluster and collapse related claims, helping refine a hierarchical claim typology for the new CLAIMS 2.0. model
+- Supported an interpretable research workflow for analyzing rhetorical strategies and misinformation themes in fossil-fuel native advertising.
+
 ### Drum Break Sound Gen
 [Git Repo](https://github.com/kyu30/sound_gen)
 - Designed and trained custom convolutional VAE and VQ-VAE models to learn 2-second drum break sample spectrograms to produce original sound
