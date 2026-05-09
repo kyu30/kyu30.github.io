@@ -24,7 +24,7 @@
 
 ## Projects
 ### Fossil Fuel Native Ads
-[Git Repo](https://github.com/kyu30/claims2)
+[Dashboard](https://huggingface.co/spaces/spark-ds549/Claims2)
 - Built a UI for claims-based analysis of sponsored climate and energy articles, mapping each sentence/paragraph to subclaim–superclaim pairs with confidence scores.
 - Applied BERTopic to cluster and collapse related claims, helping refine a hierarchical claim typology for the new CLAIMS 2.0. model
 - Supported an interpretable research workflow for analyzing rhetorical strategies and misinformation themes in fossil-fuel native advertising.
