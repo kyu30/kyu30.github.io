@@ -7,6 +7,11 @@
 - M.S., Data Science & Analytics @ Georgetown University (_August 2026 - December 2027_)
 
 ## Work Experience
+**Bank Tech Intern @ Capital One (_June 2026 - August 2026_)**
+- Led migration of Python microservices from a Kubernetes-hosted business rule execution platform to modern destination environments, defining migration patterns across 5+ target runtime architectures.
+- Engineered and wrote documentation for Claude skills to assist in and automate migration, cutting time spent on manual migration by 40%
+- Developed expertise in big data processing principles and tooling, supporting applications built on Kafka-based event streaming and distributed parallel processing on Kubernetes clusters.
+
 **Software Intern @ Cushman & Wakefield (_September 2025 - January 2026_)**
 - Designed and deployed a PDF-to-CSV parsing app using Flask, Python, and the PDFplumber and regex libraries, cutting portfolio preparation time by 50% and enabling faster delivery of client presentations.
 - Developed a Python script leveraging regex to transform a dataset of 2,000+ company contacts into a standardized reporting template, eliminating hours of manual formatting.
