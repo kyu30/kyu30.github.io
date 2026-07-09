@@ -8,9 +8,9 @@
 
 ## Work Experience
 **Bank Tech Intern @ Capital One (_June 2026 - August 2026_)**
-- Led migration of Python microservices from a Kubernetes-hosted business rule execution platform to modern destination environments, defining migration patterns across 5+ target runtime architectures.
-- Engineered and wrote documentation for Claude skills to assist in and automate migration, cutting time spent on manual migration by 40%
-- Developed expertise in big data processing principles and tooling, supporting applications built on Kafka-based event streaming and distributed parallel processing on Kubernetes clusters.
+- Built an AI-powered migration tool to automates porting rule set repos to a SQS Lambda platform using a hybrid AST/LLM extraction pipeline to normalize heterogenous repos for a company-wide decommissioning spanning 50+ tenant applications
+- Engineered and wrote documentation for human-in-the-loop Claude skills to assist in and automate migration, cutting time spent on manual refactoring by 95%
+- Led design and implementation for a platform-routing advisor that recommends which of 5 target platforms a rule set should migrate to
 
 **Software Intern @ Cushman & Wakefield (_September 2025 - January 2026_)**
 - Designed and deployed a PDF-to-CSV parsing app using Flask, Python, and the PDFplumber and regex libraries, cutting portfolio preparation time by 50% and enabling faster delivery of client presentations.
